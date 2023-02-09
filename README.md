@@ -1,34 +1,30 @@
-# Create Fabric Addon Template
+# Create Fabric Addon OurModsServer
 
-This template mod comes pre-configured for developing an addon mod for Create on Fabric.
+自己玩用的
+想加啥加啥模组
 
 
 ## Setup
 
-This template is an extension of the base [Fabric Example Mod](https://github.com/FabricMC/fabric-example-mod).
-Setup is mostly the same.
+目前有
+    防凋灵黑曜石
+    防凋灵玻璃
+    硬化玻璃
+    高级合金
+    高级合金板
 
-Additionally, set `recipe_viewer` in [gradle.properties](gradle.properties). Remember to remove unused
-example code. Make sure versions are up-to-date.
+以后想起来加啥就加啥
 
-When you publish your mod, you should use jars provided by GitHub Actions. These jars will have
-build number metadata and will be compressed by the Machete plugin.
-
-## Features
-- Access to Create and all of its dependencies
-- Mojang Mappings base, with Quilt Mappings and Parchment providing Javadoc and parameters
-- QuiltFlower decompiler for high quality Minecraft sources: `gradlew genSourcesWithQuiltflower`
-- GitHub Actions automatic build workflow
-- Machete Gradle plugin to shrink jar file sizes
-- Developer QOL: Mod Menu, LazyDFU, recipe viewers
-
-## Other Templates
-- [Multi-loader template](https://github.com/Fabricators-of-Create/create-multiloader-addon-template)
-- [Forge-only template](https://github.com/kotakotik22/CreateAddonTemplate)
+## 特色
+- 机械动力流水线合成方式
+- 支持REI查看动态配方
+- 男人的浪漫
+- 想不起来吹啥了
 
 ## Help
-Questions? Join us in the #devchat channel of the [Create Discord](https://discord.com/invite/hmaD7Se).
+没有Help
 
 ## License
 
-This template is available under the CC0 license. Feel free to do as you wish with it.
+MIT？
+毛线许可，自己玩用的，随便啦
