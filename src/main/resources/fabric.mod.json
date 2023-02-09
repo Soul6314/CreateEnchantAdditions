@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "ourmodsserver",
+  "version": "${version}",
+  "name": "OurModsServer",
+  "description": "Our Mods Server",
+  "authors": [
+    "Taoist_Soul"
+  ],
+  "contact": {
+    "website": "https://soul6314.github.io/",
+    "repo": "https://github.com/Soul6314/OurModsServer"
+  },
+  "license": "MIT",
+  "icon": "assets/ourmodsserver/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.soul6314.ourmodsserver.OurModsServer"
+    ],
+    "client": [
+      "io.github.soul6314.ourmodsserver.OurModsServerClient"
+    ]
+  },
+  "mixins": [
+    "ourmodsserver.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=${fabric_loader_version}",
+    "fabric-api": ">=${fabric_api_version}",
+    "create": "0.5.0.i-925+1.19.2",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "itemGroup.ourmodsserver.main":"我们的模组服务器",
+
+  "block.ourmodsserver.withered_obsidian": "杀凋石",
+  "block.ourmodsserver.withered_glass": "杀凋玻璃",
+  "block.ourmodsserver.hardened_glass": "硬化玻璃",
+
+  "item.ourmodsserver.advanced_alloy": "高级合金",
+  "item.ourmodsserver.advanced_alloy_sheet": "高级合金板",
+  "item.ourmodsserver.incomplete_advanced_alloy_sheet": "高级合金板（半成品）",
+  "item.ourmodsserver.slime_boots": "Slime Boots"
+}

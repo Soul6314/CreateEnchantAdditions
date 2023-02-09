@@ -1,0 +1,24 @@
+create:filling 注液器注入
+create:compacting 工作盆压实
+minecraft:crafting_shapeless 手工制作无序合成
+minecraft:crafting_shaped 手工制作有序合成
+create:crushing 粉碎轮粉碎
+create:pressing 置物台压扁
+create:mechanical_crafting 动力合成器合成
+create:mixing 混合搅拌
+{
+"type":"create:mixing",
+"heatRequirement":"heated",
+"ingredients":[
+    {
+         "item":"minecraft:copper_ingot"
+    },
+    {
+        "tag":"c:ingots/zinc"
+    }],
+        "results":[
+    {
+        "count":2,
+        "item":"create:brass_ingot"
+    }]
+}

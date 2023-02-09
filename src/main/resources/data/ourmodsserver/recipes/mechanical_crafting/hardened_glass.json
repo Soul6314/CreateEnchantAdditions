@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WEW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:glass"
+    },
+    "E": {
+      "item": "ourmodsserver:advanced_alloy_sheet"
+    }
+  },
+  "result": {
+    "item": "ourmodsserver:hardened_glass",
+    "count": 8
+  }
+}

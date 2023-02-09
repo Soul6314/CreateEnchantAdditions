@@ -1,0 +1,16 @@
+{
+  "type":"create:mixing",
+  "heatRequirement":"heated",
+  "ingredients":[
+    {
+      "item":"minecraft:netherite_ingot"
+    },
+    {
+      "item":"create:iron_sheet"
+    }],
+  "results":[
+    {
+      "count":2,
+      "item":"ourmodsserver:advanced_alloy"
+    }]
+}

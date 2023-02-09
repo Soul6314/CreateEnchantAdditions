@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EWE",
+    "WRW",
+    "EWE"
+  ],
+  "key": {
+    "W": {
+      "item": "ourmodsserver:hardened_glass"
+    },
+    "E": {
+      "item": "ourmodsserver:advanced_alloy_sheet"
+    },
+    "R": {
+      "item": "create:sturdy_sheet"
+    }
+  },
+  "result": {
+    "item": "ourmodsserver:withered_glass",
+    "count": 4
+  }
+}

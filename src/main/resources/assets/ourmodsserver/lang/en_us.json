@@ -1,0 +1,14 @@
+{
+  "itemGroup.ourmodsserver.main":"Our Mods Server",
+
+  "block.ourmodsserver.withered_obsidian": "Withered Obsidian",
+  "block.ourmodsserver.withered_glass": "Withered Glass",
+  "block.ourmodsserver.hardened_glass": "Hardened Glass ",
+
+  "item.ourmodsserver.advanced_alloy": "Advanced Alloy",
+  "item.ourmodsserver.advanced_alloy_sheet": "Advanced Alloy Sheet",
+  "item.ourmodsserver.incomplete_advanced_alloy_sheet": "Advanced Alloy Sheet(incomplete)",
+  "item.ourmodsserver.slime_boots": "Slime Boots"
+
+
+}

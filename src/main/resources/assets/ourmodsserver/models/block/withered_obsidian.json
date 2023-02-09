@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ourmodsserver:block/withered_obsidian"
+  }
+}
